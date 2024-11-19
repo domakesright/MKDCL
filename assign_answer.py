@@ -1,7 +1,3 @@
-#%%
-
-# Imports
-
 import argparse
 import json
 
